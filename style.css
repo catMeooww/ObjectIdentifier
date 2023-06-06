@@ -1,0 +1,19 @@
+body{
+    background-color: gray;
+}
+.ObjectToTag{
+    background-color: aliceblue;
+    white-space: pre-line;
+    box-shadow: 5px 5px 5px white;
+    border-radius: 20px;
+    text-align: center;
+    padding: 10px;
+}
+#Data{
+    position: absolute;
+    right: 10px;
+    width: 700px;
+    border-color: white;
+    border-style: solid;
+    height: 80%;
+}
